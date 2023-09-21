@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohangit"></a>, <a href="https://www.linkedin.com/in/jothirammohan/">Software Development Engineer in Test</a>
+<h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohangit"> href="https://www.linkedin.com/in/jothirammohan/">Software Development Engineer in Test</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
