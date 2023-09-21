@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohangit"> Software Development Engineer in Test</a> <br/> <a href="https://www.linkedin.com/in/jothirammohan/">LinkedIn</a></h1>
+<h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohangit"> Software Development Engineer in Test</a> <br/> <a href="https://www.linkedin.com/in/jothirammohan/">LinkedIn Profile</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
