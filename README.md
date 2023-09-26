@@ -15,9 +15,11 @@
   - [Automated API testing through Postman](https://github.com/jothirammohan/API-Test-Automation). This project involves configuring and executing API tests efficiently, employing Postman's robust features for request and response validation, parameterization, and data-driven testing.
   - Implementation includes Request and Response Validation, Parameterization, Authentication and Authorization, comprehensive logging and reporting, and streamlining API testing processes, ultimately contributing to the delivery of secure and high-performing APIs.
 - <b>Database Test Automation</b>
-  - [DB test automation using python](https://github.com/jothirammohan/Database-Test-Automation)
-  - This project emphasizes my skills in setting up comprehensive database testing frameworks and harnessing the power of SQL queries and testing tools.
-  - Key validations include Data Integrity, Data Accuracy, Data Retrieval(JOIN operations), and Security validation.
+  - [DB test automation using python](https://github.com/jothirammohan/Database-Test-Automation) emphasizes my skills in setting up comprehensive database testing frameworks and harnessing the power of SQL queries and testing tools. Key validations include
+    * Data Integrity(Primary & foreign key constraints)
+    * Data Accuracy(Data type, range, format, transformation)
+    * Data Retrieval(JOIN, select, sort operations)
+    * Security validation(Access control).
  
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
