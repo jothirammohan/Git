@@ -12,9 +12,9 @@
   - Key learning from this project includes combination of mobile-specific scenarios, problem-solving abilities, and a deep understanding of mobile app testing and automation.  
 
 - <b>API Test Automation</b>
-  - [Automated RESTful API](https://github.com/jothirammohan/API-Test-Automation)
-  - Explain how it is done, different concepts used
-  - Impact made
+  - [Automated API testing through Postman](https://github.com/jothirammohan/API-Test-Automation). This project involves configuring and executing API tests efficiently, employing Postman's robust features for request and response validation, parameterization, and data-driven testing.
+  - Major features include Request and Response Validation, Parameterization, Authentication and Authorization. It highlights my commitment to ensuring the quality and reliability of APIs by integrating automated testing into the software development lifecycle.
+  - By embracing CI/CD integration, comprehensive logging and reporting, version control with Git, and thorough documentation practices, this project demonstrates my dedication to streamlining API testing processes, ultimately contributing to the delivery of secure and high-performing APIs.
 - <b>Database Test Automation</b>
   - [Proof of Concept](https://github.com/jothirammohan/Database-Test-Automation)
   - Explain how it is done, different concepts used
