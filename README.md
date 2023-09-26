@@ -8,8 +8,8 @@
   - The impact of this project is substantial, as it equips developers and QA professionals with the tools to streamline web application testing, improving software quality, expediting development cycles, and ultimately delivering better products to end-users. With comprehensive test frameworks, robust data management, and CI/CD integration, this project has the potential to transform the software development process, fostering collaboration and enabling the delivery of top-tier web applications. 
 - <b>Mobile Test Automation</b>
   - [Implemented Appium framework to perform cross browser testing in IOS and Android platforms](https://github.com/jothirammohan/Mobile-Test-Automation) This project highlights my experience in Appium, an open-source tool that enables cross-platform mobile test automation.
-  - Key concepts implemented are cross-platform testing, parallel test execution, assertions, logging, reporting, version control.
-  - 
+  - Important concepts implemented are cross-platform testing, installation/uninstallation, navigation testing, locators, mobile gestures, parallel test execution, implicit wait, explicit wait, assertions, logging, reporting, version control.
+  - Key learning from this project includes combination of mobile-specific scenarios, problem-solving abilities, and a deep understanding of mobile app testing and automation.  
 
 - <b>API Test Automation</b>
   - [Automated RESTful API](https://github.com/jothirammohan/API-Test-Automation)
