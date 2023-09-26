@@ -4,17 +4,23 @@
 
 - <b>Web Test Automation using Selenium WebDriver(Python)</b>
   - [Developed and implemented PyTest framework from scratch](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Explain how it is done, different concepts used
+  - Impact made 
 - <b>Mobile Test Automation</b>
   - [Implemented Appium framework to perform cross browser testing in IOS and Android platforms](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - Explain how it is done, different concepts used
+  - Impact made
 - <b>API Automation</b>
   - [Automated RESTful API](https://github.com/joshmadakor1/Sentinel-Lab)
+  - Explain how it is done, different concepts used
+  - Impact made
 - <b>Database Test Automation</b>
   - [Proof of Concept](https://github.com/joshmadakor1/EncrypterPOC)
-
+  - Explain how it is done, different concepts used
+  - Impact made
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://linkedin.com/in/jothirammohan
 
 <!--
