@@ -3,19 +3,19 @@
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>Web Test Automation using Selenium WebDriver(Python)</b>
-  - [Developed and implemented PyTest framework from scratch](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Developed and implemented PyTest framework from scratch](https://github.com/jothirammohan/Web-Test-Automation)
   - Explain how it is done, different concepts used
   - Impact made 
 - <b>Mobile Test Automation</b>
-  - [Implemented Appium framework to perform cross browser testing in IOS and Android platforms](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Implemented Appium framework to perform cross browser testing in IOS and Android platforms](https://github.com/jothirammohan/Mobile-Test-Automation)
   - Explain how it is done, different concepts used
   - Impact made
-- <b>API Automation</b>
-  - [Automated RESTful API](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>API Test Automation</b>
+  - [Automated RESTful API](https://github.com/jothirammohan/API-Test-Automation)
   - Explain how it is done, different concepts used
   - Impact made
 - <b>Database Test Automation</b>
-  - [Proof of Concept](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Proof of Concept](https://github.com/jothirammohan/Database-Test-Automation)
   - Explain how it is done, different concepts used
   - Impact made
 <h2> 🤳 Connect with me:</h2>
