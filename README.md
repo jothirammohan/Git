@@ -1,6 +1,7 @@
 <h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohan"> Passionate Techie </a></h1>
 
 <h2>👨‍💻 Software Projects:</h2>
+
 - <b>SQL Portfolio</b>
   - [Developed and implemented PyTest framework from scratch](https://github.com/jothirammohan/Web-Test-Automation) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
   - By implementing the Page Object Model (POM) design pattern, I've organized the code efficiently, making it highly maintainable. Various OOPS concepts like Inheritance, Polymorphism, Abstraction, Encapsulation, Method Overriding, Classes & Objects, Modularity are used to improve code organization and reusability. Key concepts implemented are as follows.
