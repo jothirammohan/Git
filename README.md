@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>SQL Portfolio</b>
-  - [Implemented key concepts in SQL ](https://github.com/jothirammohan/Web-Test-Automation) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
+  - [Implemented key concepts in SQL](https://github.com/jothirammohan/SQL-Portfolio.git) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
   - By implementing the Page Object Model (POM) design pattern, I've organized the code efficiently, making it highly maintainable. Various OOPS concepts like Inheritance, Polymorphism, Abstraction, Encapsulation, Method Overriding, Classes & Objects, Modularity are used to improve code organization and reusability. Key concepts implemented are as follows.
     - Identifying WebElements with Tools
     - XPath/CSS Selector
