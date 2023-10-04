@@ -9,14 +9,11 @@ Greetings and welcome to my GitHub page. I'm delighted to have you here. Please 
     - **📚 SQL Concepts:** Within this repository, you'll discover a wide array of SQL concepts put into practice. From crafting intricate queries to data modeling and transaction management, I've delved into various aspects of SQL to handle diverse scenarios.
     - **💼 Real-world Scenarios:** My projects go beyond theory; they represent real-world scenarios and challenges. Whether it's optimizing queries for performance, creating complex reports, or ensuring data integrity.
 
-- <b>Tableau Portfolio</b>
-  - [Developed and implemented PyTest framework from scratch](https://github.com/jothirammohan/Web-Test-Automation) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
-  - By implementing the Page Object Model (POM) design pattern, I've organized the code efficiently, making it highly maintainable. Various OOPS concepts like Inheritance, Polymorphism, Abstraction, Encapsulation, Method Overriding, Classes & Objects, Modularity are used to improve code organization and reusability. Key concepts implemented are as follows.
-    - Identifying WebElements with Tools
-    - XPath/CSS Selector
-    - Running Tests on Different Browsers
-    - Working with WebElements
-    - WebDriver Important Methods
+- **[Tableau Portfolio](https://github.com/jothirammohan/Tableau-Portfolio.git)**
+  - I love the art of data visualization and harnessing Tableau's capabilities to tell compelling data stories. Here, I share my journey of transforming raw data into insightful visualizations.
+    - **🎨 Data Visualization:** Explore a world of vibrant and insightful visualizations that breathe life into data. I believe in the power of visuals to communicate complex information simply and effectively.
+    - **📊 Tableau Experience:** From creating interactive dashboards to crafting informative charts and maps, I leverage Tableau's rich features to present data in meaningful ways.
+    - **🌐 Diverse Data Sources:** Created projects that span various data sources, from spreadsheets to databases. I'm dedicated to showcasing the versatility of Tableau in handling diverse datasets.
 
 - <b>Web Test Automation using Selenium WebDriver(Python)</b>
   - [Developed and implemented PyTest framework from scratch](https://github.com/jothirammohan/Web-Test-Automation) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
