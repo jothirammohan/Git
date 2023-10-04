@@ -3,7 +3,7 @@ Greetings and welcome to my GitHub page. I'm delighted to have you here. Please 
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <h2>**[SQL Portfolio](https://github.com/jothirammohan/SQL-Portfolio.git)**</h2>
+- **[SQL Portfolio](https://github.com/jothirammohan/SQL-Portfolio.git)**
   - I'm passionate about harnessing the power of SQL to extract valuable insights from data. With a strong foundation in database management and a knack for solving real-world problems, I'm excited to share my SQL journey with you.
     - **🔍 Data Analysis:** My portfolio reflects my love for diving deep into data. I thrive on exploring datasets, finding hidden patterns, and transforming raw information into actionable insights.
     - **📚 SQL Concepts:** Within this repository, you'll discover a wide array of SQL concepts put into practice. From crafting intricate queries to data modeling and transaction management, I've delved into various aspects of SQL to handle diverse scenarios.
