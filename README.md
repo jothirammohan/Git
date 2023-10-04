@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jothiram! <br/><a href="https://github.com/jothirammohan"> A Passionate Techie </a></h1>
+<h1>Hi, I'm Jothiram! </h1><br/>
+Greetings and welcome to my GitHub page. I'm delighted to have you here. Please take a moment to explore my portfolio, where you'll find a range of projects reflecting my interests in technology, software development, data analysis, and informatics. Feel free to browse at your leisure, and if you have any questions or would like to connect, don't hesitate to reach out. Thank you for visiting!
 
 <h2>👨‍💻 Software Projects:</h2>
 
