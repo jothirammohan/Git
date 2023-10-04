@@ -4,11 +4,10 @@ Greetings and welcome to my GitHub page. I'm delighted to have you here. Please 
 <h2>👨‍💻 Software Projects:</h2>
 
 - **[SQL Portfolio](https://github.com/jothirammohan/SQL-Portfolio.git)**
-
-I'm passionate about harnessing the power of SQL to extract valuable insights from data. With a strong foundation in database management and a knack for solving real-world problems, I'm excited to share my SQL journey with you.
-- **🔍 Data Analysis:** My portfolio reflects my love for diving deep into data. I thrive on exploring datasets, finding hidden patterns, and transforming raw information into actionable insights.
-- **📚 SQL Concepts:** Within this repository, you'll discover a wide array of SQL concepts put into practice. From crafting intricate queries to data modeling and transaction management, I've delved into various aspects of SQL to handle diverse scenarios.
-- **💼 Real-world Scenarios:** My projects go beyond theory; they represent real-world scenarios and challenges. Whether it's optimizing queries for performance, creating complex reports, or ensuring data integrity.
+  - I'm passionate about harnessing the power of SQL to extract valuable insights from data. With a strong foundation in database management and a knack for solving real-world problems, I'm excited to share my SQL journey with you.
+    - **🔍 Data Analysis:** My portfolio reflects my love for diving deep into data. I thrive on exploring datasets, finding hidden patterns, and transforming raw information into actionable insights.
+    - **📚 SQL Concepts:** Within this repository, you'll discover a wide array of SQL concepts put into practice. From crafting intricate queries to data modeling and transaction management, I've delved into various aspects of SQL to handle diverse scenarios.
+    - **💼 Real-world Scenarios:** My projects go beyond theory; they represent real-world scenarios and challenges. Whether it's optimizing queries for performance, creating complex reports, or ensuring data integrity.
 
 - <b>Tableau Portfolio</b>
   - [Developed and implemented PyTest framework from scratch](https://github.com/jothirammohan/Web-Test-Automation) employing the powerful Selenium WebDriver library in conjunction with Python. This project reflects not only my python programming skills but also my commitment to best practices in software testing.
