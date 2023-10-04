@@ -54,7 +54,7 @@ Greetings and welcome to my GitHub page. I'm delighted to have you here. Please 
     * Security validation(Access control).
  
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/jothirammohan
+https://linkedin.com/in/jothirammohan
 
 <!--
 **jothirammohan/jothirammohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
